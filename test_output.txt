@@ -1,0 +1,255 @@
+GM University 
+FCIT-MCA 
+ 
+ 
+ 
+ 
+ 
+Faculty Name: Miss Anu V.B 
+Date: 23/5/2026 
+ 
+Faculty of Computing IT 
+Master in Computer Applications 
+Second Semester 
+Assignment-1 
+Course: INTRODUCTION TO MACHINE LEARNING  
+Team 01 
+ 
+Machine Learning for Business Analytics 
+Assignment Title: Customer Purchase Prediction using Machine Learning 
+Fundamentals 
+ 
+Objectives: 
+ 
+  Understand the machine learning process for customer purchase prediction using real-world 
+datasets.  
+     Apply data analytics techniques to preprocess and analyze customer purchase data.  
+     Build and evaluate a basic machine learning model to identify customer buying patterns and 
+support business decision-making. 
+Problem Statement 
+Study the machine learning process and perform data analytics on customer purchase data to identify 
+buying patterns. 
+Industry Scenario 
+A supermarket chain wants to understand customer purchasing behavior to improve sales and 
+marketing strategies. 
+ 
+ 
+ 
+ 
+GM University 
+FCIT-MCA 
+ 
+ 
+ 
+Dataset 
+ 
+10,000 Customer Records  
+ 
+Age  
+ 
+Gender  
+ 
+Income  
+ 
+Purchase Amount  
+ 
+Membership Status  
+Tasks 
+1. Identify the need for Machine Learning in retail.  
+2. Explain the ML lifecycle used in the project.  
+3. Classify the problem into supervised or unsupervised learning.  
+4. Perform basic data analytics.  
+5. Identify challenges in the dataset.  
+6. Compare traditional programming with ML.  
+7. Visualize purchase distribution.  
+8. Explain business applications.  
+9. Document ML workflow.  
+10. Prepare a project report.  
+Additional Outcome 
+Justify why Machine Learning is more suitable than rule-based systems for customer analytics. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM University 
+FCIT-MCA 
+ 
+ 
+ 
+ 
+ 
+ 
+Faculty Name: Anu V.B 
+Date: 23/5/2026 
+ 
+Faculty of Computing IT 
+Master in Computer Applications 
+Second Semester 
+Assignment-1 
+Course: INTRODUCTION TO MACHINE LEARNING  
+Team-02 
+Educational data analytics 
+Assignment Title: Student Academic Performance Analysis using Data Analytics 
+Objectives:  
+ 
+ Analyze student performance using descriptive statistics and data visualization.   
+ Apply basic data preprocessing and feature engineering techniques for data analysis.  
+ Identify key factors affecting academic performance and generate meaningful insights. 
+ 
+Industry Scenario 
+An educational institution wants to identify factors affecting student performance. 
+Problem Statement 
+Analyze student performance data using descriptive statistics, visualization, and feature 
+engineering techniques. 
+Dataset 
+ 
+8,000 Student Records  
+ 
+Attendance  
+ 
+Internal Marks  
+ 
+Assignment Scores  
+ 
+Study Hours  
+ 
+Final Result  
+ 
+ 
+GM University 
+FCIT-MCA 
+ 
+ 
+ 
+ 
+Tasks 
+1. Perform descriptive statistics.  
+2. Conduct univariate analysis.  
+3. Conduct multivariate analysis.  
+4. Create visualization charts.  
+5. Handle missing values.  
+6. Apply feature scaling.  
+7. Perform feature engineering.  
+8. Detect outliers.  
+9. Generate statistical insights.  
+10. Prepare an analytical report.  
+Additional Outcome 
+Recommend the most influential features affecting academic performance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM University 
+FCIT-MCA 
+ 
+ 
+ 
+ 
+Faculty Name: Anu V.B 
+Date: 23/5/2026 
+ 
+Faculty of Computing IT 
+Master in Computer Applications 
+Second Semester 
+Assignment-1 
+Course: INTRODUCTION TO MACHINE LEARNING 
+Team-03 
+ 
+Predictive Analytics for Real Estate Price Estimation 
+Assignment Title: House Price Prediction using KNN and Regression Models 
+Objectives: 
+ Design a machine learning model for predicting house prices using property features such as 
+location, area, number of bedrooms, and amenities.  
+ Implement K-Nearest Neighbors (KNN) and Regression algorithms to train and evaluate the 
+house price prediction model.  
+ Compare and evaluate the accuracy and performance of KNN and Regression models using 
+appropriate evaluation metrics to identify the most effective prediction technique. 
+Industry Scenario 
+ 
+A real estate company wants to estimate property prices based on property characteristics. 
+Problem Statement 
+Develop predictive models using KNN and regression techniques for house price estimation. 
+Dataset 
+ 
+15,000 House Records  
+ 
+Area  
+ 
+Bedrooms  
+ 
+Bathrooms  
+ 
+Location  
+ 
+Parking  
+ 
+Price  
+ 
+ 
+GM University 
+FCIT-MCA 
+ 
+ 
+ 
+ 
+Tasks 
+1. Implement K-Nearest Neighbor algorithm.  
+2. Develop a Nearest Centroid classifier.  
+3. Build a Linear Regression model.  
+4. Build a Multiple Linear Regression model.  
+5. Implement Logistic Regression for price category prediction.  
+6. Compare model accuracy.  
+7. Calculate prediction error.  
+8. Visualize regression line.  
+9. Analyze feature importance.  
+10. Prepare a comparison report.  
+Additional Outcome 
+Recommend the best predictive model for real estate price estimation. 
+GM University 
+FCIT-MCA 
+ 
+ 
+ 
+ 
+ 
+Faculty Name: Anu V.B 
+Date: 23/5/2026 
+ 
+Faculty of Computing IT 
+Master in Computer Appl
